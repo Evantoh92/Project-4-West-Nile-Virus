@@ -25,9 +25,7 @@ cost-effective plan for pesticide deployment.
 
 # Executive Summary 
 
-Trap, locations, Months, Weeks, Cool, Heat, WetBulb and species played an important role in predicting WNV.
-
-The best result xxx..xxx with an AUC of xxx.
+TO FILL IN LATER...
 
 # Data Description 
 
