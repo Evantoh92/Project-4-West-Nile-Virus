@@ -25,7 +25,12 @@ cost-effective plan for pesticide deployment.
 
 # Executive Summary 
 
-TO FILL IN LATER...
+3 classifers - logistic regression, random forests and support vector machines (SVM) were built and combined two best performing models with best parameters in the ensemble model. Months, Weeks, WetBlub, Species (top 4) played an important role in predicting WNV. Our ensemble classifer has an ROC AUC of 0.54 and a F1 score of 0.80.
+
+Future possible developments:
+- Research on weather variables further to use them more effectively
+- Try gradient boosting to optimize model
+- Ensemble more models 
 
 # Data Description 
 
